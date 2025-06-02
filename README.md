@@ -32,7 +32,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <br>
-<div>
+<div align = "center">
   <a href="#" title="Thanhh Baek">
     <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoCyber05&layout=compact&&langs_count=10&theme=highcontrast"/>
   </a>
@@ -61,7 +61,10 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="HuuAn-email" />
   </a> -->
 </div>
-
+<h2 align="center">📈 Contribution Graph 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeoCyber05&theme=merko&area=true&hide_title=true&hide_border=true&radius=15&grid=true&point=false">
+</div>
 
 
 <!-- <a href="#" target="_blank">
