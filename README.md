@@ -66,14 +66,8 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/huuandev-quotes.svg" width="1000" height="100" alt="Carbon" />
+  <img src="svg/huuandev-quotes.svg" width="1000" height="100" alt="Thanhh Baek" />
 </a>
-
-
-
-
-
-
 
 
 <picture>
