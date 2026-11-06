@@ -1,11 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=44F764&multiline=true&width=935&lines=👋+Hello%2C+I%E2%80%99m+Bach+%E2%80%94+A+professional+bug+creator.)](https://git.io/typing-svg)
 
+<a href="https://github.com/NeoCyber05/my_star_repo"><img src="https://img.shields.io/badge/My_Stars-e3b341?style=for-the-badge&logo=github&logoColor=black" alt="My Stars"/></a>
+
 
 <!-- <h2 align="center">🔥 GitHub Stats 🔥</h2> -->
 
 
 <div align="left">
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="450">
+
+<h3 align="left">Working on:</h3>
+
+<ul>
+  <li><b>AI agents:</b> <a href="https://github.com/NeoCyber05/UniFlow">UniFlow</a>, a study planner whose agent turns plain text into cards, checklists and schedules</li>
+  <li><b>AIOps:</b> LLM root cause analysis for intelligent transportation systems</li>
+  <li><b>Infra agents:</b> <a href="https://github.com/NeoCyber05/Docker-Agent-CLI">Docker-Agent-CLI</a>, a CLI agent for managing Docker</li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -21,6 +31,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/></a>
+  <br><br>
+  <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="langgraph"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/></a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="prometheus"/></a>
 </p>
 </div>
 
