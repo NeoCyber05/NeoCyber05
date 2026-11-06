@@ -9,13 +9,9 @@
 <div align="left">
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="450">
 
-<h3 align="left">Working on:</h3>
+<h3 align="left">Focus:</h3>
 
-<ul>
-  <li><b>AI agents:</b> <a href="https://github.com/NeoCyber05/UniFlow">UniFlow</a>, a study planner whose agent turns plain text into cards, checklists and schedules</li>
-  <li><b>AIOps:</b> LLM root cause analysis for intelligent transportation systems</li>
-  <li><b>Infra agents:</b> <a href="https://github.com/NeoCyber05/Docker-Agent-CLI">Docker-Agent-CLI</a>, a CLI agent for managing Docker</li>
-</ul>
+<p>AI Agents · AIOps · DevOps</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
