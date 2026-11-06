@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 372 108" width="372" height="108" role="img" aria-label="AI Agents, DevOps, AI-Centric SE">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c2230"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="ga" gradientUnits="userSpaceOnUse" x1="4" y1="4" x2="44" y2="44">
+      <stop offset="0" stop-color="#e9d5ff"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="gb" gradientUnits="userSpaceOnUse" x1="4" y1="24" x2="44" y2="24">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="gc" gradientUnits="userSpaceOnUse" x1="4" y1="4" x2="44" y2="44">
+      <stop offset="0" stop-color="#bbf7d0"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <linearGradient id="ea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a855f7" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="eb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="ec" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4ade80" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#4ade80" stop-opacity="0.08"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3.500"/>
+    </filter>
+
+    <g id="agent" fill="none" stroke="url(#ga)" stroke-width="2.600" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="10" y="16" width="28" height="23" rx="8"/>
+      <path d="M24 16V9.500M5 25v6M43 25v6"/>
+      <circle cx="24" cy="7" r="2.500"/>
+      <path d="M18 25v3M30 25v3"/>
+      <path d="M19.500 33.500c2.800 1.800 6.200 1.800 9 0"/>
+    </g>
+    <g id="devops" fill="none" stroke="url(#gb)" stroke-width="2.800" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M14 13a11 11 0 1 0 0 22c9 0 11-22 20-22a11 11 0 1 1 0 22c-9 0-11-22-20-22z"/>
+      <path d="M31 8.500l4.500 4.500-4.500 4.500M11 30.500l4.500 4.500-4.500 4.500"/>
+    </g>
+    <g id="se" fill="none" stroke="url(#gc)" stroke-width="2.600" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="5" y="11" width="35" height="29" rx="7"/>
+      <path d="M5 19.500h35"/>
+      <path d="M18.500 25l-5 4.500 5 4.500M26.500 25l5 4.500-5 4.500"/>
+    </g>
+    <path id="spark" d="M39 2l2.200 6.800L48 11l-6.800 2.200L39 20l-2.200-6.800L30 11l6.800-2.200z"/>
+  </defs>
+
+  <g font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3" text-anchor="middle">
+    <g transform="translate(1 1)">
+      <rect width="118" height="106" rx="16" fill="url(#bg)" stroke="url(#ea)"/>
+      <g transform="translate(35 14)">
+        <use href="#agent" filter="url(#glow)" opacity="0.7"/>
+        <use href="#agent"/>
+      </g>
+      <text x="59" y="90">AI Agents</text>
+    </g>
+
+    <g transform="translate(127 1)">
+      <rect width="118" height="106" rx="16" fill="url(#bg)" stroke="url(#eb)"/>
+      <g transform="translate(35 14)">
+        <use href="#devops" filter="url(#glow)" opacity="0.7"/>
+        <use href="#devops"/>
+      </g>
+      <text x="59" y="90">DevOps</text>
+    </g>
+
+    <g transform="translate(253 1)">
+      <rect width="118" height="106" rx="16" fill="url(#bg)" stroke="url(#ec)"/>
+      <g transform="translate(35 14)">
+        <use href="#se" filter="url(#glow)" opacity="0.7"/>
+        <use href="#se"/>
+        <use href="#spark" fill="#f0fdf4" stroke="#171d29" stroke-width="3" paint-order="stroke"/>
+      </g>
+      <text x="59" y="90">AI-Centric SE</text>
+    </g>
+  </g>
+</svg>
